@@ -1,0 +1,67 @@
+/*CSS Stylesheet*/
+
+/** {border: 1px solid black;}*/
+
+body {
+margin: 0;
+background: linear-gradient(to right, green, lightblue);
+font-family: 'Raleway Dots', cursive;
+}
+
+img {
+max-width: 100%;
+}
+#wrapper {
+width: 1180px;
+margin: 0 auto;
+color: transparent;
+font-size: 30px;
+}
+
+#one, #two {
+/*    text-align: right;*/
+width: 100%;
+border: 1px solid white;
+height: 400px;
+padding: 24px;
+}
+
+#one img, #two img {
+max-width: 60%;
+float: right;
+text-align:left;
+}
+
+
+#oneLeft {
+width: 550px;
+/*    float: left;*/
+color: white;
+font-size: 30px;
+text-align: left;
+padding-top: 120px;
+}
+
+
+.three {
+text-align: center;
+background: transparent;
+padding: 40px 0;
+margin: 200px 0;
+font-size: 30px;
+font-weight: 700;
+
+}
+
+h2 {
+    color: white;
+    
+}
+.spacer {
+height: 200px;
+}
+
+h4 {
+    text-align: center;
+    color: white;
+}
